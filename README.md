@@ -1,2 +1,2 @@
 # spring-jenkins
-jenkins testing local
+for jenkins testing purpose
